@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-(Not Much Active on GitHub yet, hopefully will remove this in sometime 🙂)
+(Not Much Active on GitHub yet, hopefully will remove this soon 🙂)
 ## About Me
 
 I'm a passionate Software Engineer with over 2 years of professional experience in developing robust and scalable applications. Currently, I'm working at Oracle, where I contribute to cutting-edge technologies and collaborate with talented teams.
