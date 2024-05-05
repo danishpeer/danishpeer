@@ -7,7 +7,7 @@ I'm a passionate Software Engineer with over 2 years of professional experience 
 ## Technical Skills
 
 **Web Development:**
-- Front-end: React, Preact, Oracle JET (VDOM)
+- Front-end: React, Preact, Oracle JET (VDOM), NextJs
 - Back-end: Java, Python, C++, Helidon SE, NodeJs
 - Databases: Various SQL and NoSQL databases
 
@@ -18,7 +18,7 @@ I'm a passionate Software Engineer with over 2 years of professional experience 
 - CI/CD Pipelines
 - Cloud Deployments (OCI)
 - Microservice Architecture
-- OAuth
+- OAuth, JWT
 
 **Machine Learning:**
 - 3+ years of research experience in PyTorch
