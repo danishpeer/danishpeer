@@ -8,7 +8,7 @@ I'm a passionate Software Engineer with over 2 years of professional experience 
 
 **Web Development:**
 - Front-end: React, Preact, Tailwind CSS, Oracle JET (VDOM), NextJs
-- Back-end: Java, Python, C++, Helidon SE, NodeJs
+- Back-end: Java, Python, C++, Helidon SE, NodeJs, Express
 - Databases: Various SQL and NoSQL databases
 
 **Cloud and DevOps:**
