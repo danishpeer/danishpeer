@@ -27,9 +27,6 @@ I'm a passionate Software Engineer with over 2 years of professional experience 
 - Data preprocessing and analysis
 - Final Year thesis on BERT based Phenotypic Identification
 
-## Projects and Contributions
-
-Work in Progress
 
 ## Get in Touch
 
